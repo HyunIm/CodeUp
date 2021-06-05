@@ -1,0 +1,15 @@
+# File : 6083.py
+# Dev : LimHyun (hyunzion@gmail.com)
+# Since : 2021-06-05
+# Brief : 종합
+
+r, g, b = map(int, input().split())
+cnt = 0
+
+for i in range(r):
+    for j in range(g):
+        for k in range(b):
+            print(i, j, k)
+            cnt += 1
+            
+print(cnt)
