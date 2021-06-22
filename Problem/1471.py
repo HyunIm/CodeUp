@@ -1,0 +1,10 @@
+# File : 1471.py
+# Dev : LimHyun (hyunzion@gmail.com)
+# Since : 2021-06-22
+# Brief : 2차원 배열
+
+n = int(input())
+for i in range(n, 0, -1):
+    for j in range(n):
+        print(n-i+j*n+1 if j%2 else i+j*n, end=' ')
+    print()
