@@ -3,7 +3,7 @@
 
 <br>
 <div align="center">
-  <a href="[https://www.acmicpc.net/](https://codeup.kr/)">
+  <a href="[https://codeup.kr/](https://codeup.kr/)">
     <img src="image/CodeUp.png" alt="Logo">
   </a>
   
